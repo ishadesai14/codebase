@@ -3,3 +3,7 @@ x=1
 y=2
 z=x+y
 print(z)
+
+a=0
+b=10
+c=b/a
